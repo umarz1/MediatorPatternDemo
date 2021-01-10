@@ -1,0 +1,13 @@
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.exe
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.deps.json
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.runtimeconfig.json
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.runtimeconfig.dev.json
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.dll
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\bin\Debug\netcoreapp3.1\MediatorPatternDemo.pdb
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.csprojAssemblyReference.cache
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.csproj.CoreCompileInputs.cache
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.AssemblyInfoInputs.cache
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.AssemblyInfo.cs
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.dll
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.pdb
+C:\Git\MediatorPatternDemo\MediatorPatternDemo\obj\Debug\netcoreapp3.1\MediatorPatternDemo.genruntimeconfig.cache
